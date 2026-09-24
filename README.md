@@ -1,6 +1,6 @@
-# Toriq — Personal Portfolio
+# Toriqq — Personal Portofolio
 
-> A modern personal portfolio website built with **React + Vite**, showcasing my projects, technical skills, and journey as a **Business Information Systems student**.
+> A modern personal portofolio website built with **React + Vite**, showcasing my projects, technical skills, and journey as a **Business Information Systems student**.
 
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square\&logo=react\&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-7-646CFF?style=flat-square\&logo=vite\&logoColor=white)](https://vite.dev/)
@@ -12,9 +12,9 @@
 
 ## About This Project
 
-This repository contains my personal portfolio website, designed to present my background, projects, technical capabilities, and experience in the field of **Business Information Systems**.
+This repository contains my personal portofolio website, designed to present my background, projects, technical capabilities, and experience in the field of **Business Information Systems**.
 
-The portfolio combines software development with business-oriented problem solving, with a focus on building digital solutions that are not only functional but also aligned with business processes and user needs.
+The portofolio combines software development with business-oriented problem solving, with a focus on building digital solutions that are not only functional but also aligned with business processes and user needs.
 
 ### What I Focus On
 
@@ -31,7 +31,7 @@ The portfolio combines software development with business-oriented problem solvi
 
 ## Features
 
-The portfolio is designed with a clean and responsive interface and includes:
+The portofolio is designed with a clean and responsive interface and includes:
 
 * **Hero Section** — Personal introduction and professional summary
 * **About Section** — Background, interests, and career direction
@@ -71,7 +71,7 @@ The portfolio is designed with a clean and responsive interface and includes:
 ## Project Structure
 
 ```text
-portfolio/
+portofolio/
 ├── public/
 │   └── assets/
 │
@@ -92,7 +92,7 @@ portfolio/
 └── README.md
 ```
 
-> The exact structure may evolve as the portfolio grows.
+> The exact structure may evolve as the portofolio grows.
 
 ---
 
@@ -201,7 +201,7 @@ npm run build
 
 ## Deployment
 
-This portfolio can be deployed as a static React application using **GitHub Pages** or other modern hosting platforms.
+This portofolio can be deployed as a static React application using **GitHub Pages** or other modern hosting platforms.
 
 For GitHub Pages, the deployment flow is:
 
@@ -231,7 +231,7 @@ The generated files are placed in the `dist/` directory.
 
 ## Design Principles
 
-The portfolio is developed with several principles in mind:
+The porotfolio is developed with several principles in mind:
 
 ### 1. Clarity
 
@@ -316,7 +316,7 @@ My main areas of interest are at the intersection of **technology, business, and
 
 ## Featured Projects
 
-Projects showcased in this portfolio represent practical applications of technology and information systems concepts.
+Projects showcased in this portofolio represent practical applications of technology and information systems concepts.
 
 Each project focuses on understanding a problem, designing a solution, implementing the system, and evaluating its potential business value.
 
@@ -334,7 +334,7 @@ Each project focuses on understanding a problem, designing a solution, implement
 
 ## Future Improvements
 
-This portfolio is continuously evolving.
+This portofolio is continuously evolving.
 
 Planned improvements include:
 
@@ -370,11 +370,11 @@ Through this project, I aim to continuously improve my ability to:
 
 If you would like to discuss a project, collaboration, or simply connect, feel free to reach out.
 
-**Portfolio:**
+**Portofolio:**
 `https://toriqqfme.github.io/`
 
 **GitHub:**
-`https://toriqqfme.github.io/Portofolio/`
+`https://github.com/ToriqqHabilFadhilaa/toriqqfme.github.io`
 
 **LinkedIn:**
 `https://www.linkedin.com/in/toriqhabilfadhila21/`
@@ -383,7 +383,7 @@ If you would like to discuss a project, collaboration, or simply connect, feel f
 
 ## License
 
-This project is intended for personal portfolio and educational purposes.
+This project is intended for personal portofolio and educational purposes.
 
 If you would like to use parts of this project as inspiration, feel free to do so, but please respect the original work and attribution.
 
