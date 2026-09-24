@@ -103,7 +103,7 @@ Follow the steps below to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-https://github.com/ToriqqFME/Portofolio.git
+https://github.com/ToriqqHabilFadhilaa/Portofolio.git
 ```
 
 Navigate into the project:
@@ -371,10 +371,10 @@ Through this project, I aim to continuously improve my ability to:
 If you would like to discuss a project, collaboration, or simply connect, feel free to reach out.
 
 **Portofolio:**
-`https://toriqqfme.github.io/`
+`https://toriqqhabilfadhilaa.github.io/`
 
 **GitHub:**
-`https://github.com/ToriqqHabilFadhilaa/toriqqfme.github.io`
+`https://github.com/ToriqqHabilFadhilaa/toriqqhabilfadhilaa.github.io`
 
 **LinkedIn:**
 `https://www.linkedin.com/in/toriqhabilfadhila21/`

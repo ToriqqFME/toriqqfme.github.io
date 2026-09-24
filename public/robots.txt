@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://toriqqfme.github.io/sitemap.xml
+Sitemap: https://toriqqhabilfadhilaa.github.io/sitemap.xml
